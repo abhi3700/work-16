@@ -1,6 +1,9 @@
 from docx import Document
 from docx.shared import Inches
-from input import *
+from pg1 import *
+from pg2 import *
+from pg3 import *
+from pg4 import *
 
 document = Document()
 
